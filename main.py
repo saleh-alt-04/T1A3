@@ -9,7 +9,7 @@ helplines = ["A) The 50/50", "B) The Audience", "C) The Telephone"]
 def ask_question(question, answers, correct, amount, audience, phone):  
   print(question)
   sleep(3)
-  for answer in answers:
+  for answer in answers:    
     print(answer)
     sleep(1)
   player_answer = input("What is your answer?(A,B,C,D or H for helpline)")
