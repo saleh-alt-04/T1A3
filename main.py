@@ -16,7 +16,7 @@ def ask_question(question, answers, correct, amount, audience, phone):
   if player_answer.upper() == "H":
     use_helpline(correct, amount, audience, phone)
   elif player_answer.upper() == correct:
-    print(" ")
+    print(" ")    
     correct_answer(amount)
     sleep(2)
   else:
