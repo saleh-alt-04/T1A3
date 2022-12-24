@@ -30,7 +30,7 @@ One of the features of my app is using helplines like the show using the 50/50 h
 The second feature is submitting a question for future episodes
 **![](https://lh4.googleusercontent.com/pqJDp5YwwsOD73O_GpjSGCXYP_KzXiBVVSzzvS7BjBSK_ge00-SqIogBrBoJxUgccvt9LUpuE7Hu5j5O_1yDnlRGImtmNBKRHT31gSGDuVNi4XOlNlwrofpSGAbnEbtRM5dT3uiAqRjGYMUuOUmPnOBndTpWmHxTFcZWkhx6IPlodZq5tkStzNnE1w6ykQOa=s2048)**
 
-
+    
 **Feature 3:**
 
 Another feature for every question you get right money added up and when you lose you lose all the money and if you get every question right you win $1,000,000
