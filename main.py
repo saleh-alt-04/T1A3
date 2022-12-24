@@ -6,7 +6,7 @@ money = 0
 helplines = ["A) The 50/50", "B) The Audience", "C) The Telephone"]
 
 
-def ask_question(question, answers, correct, amount, audience, phone):
+def ask_question(question, answers, correct, amount, audience, phone):  
   print(question)
   sleep(3)
   for answer in answers:
