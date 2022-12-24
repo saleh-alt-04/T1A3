@@ -1,7 +1,7 @@
 from time import sleep
 from random import randint          
    
-status = "on"
+status = "on"   
 money = 0
 helplines = ["A) The 50/50", "B) The Audience", "C) The Telephone"]
   
