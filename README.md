@@ -48,5 +48,36 @@ Another feature for every question you get right money added up and when you los
     
  -   Try & Except: When catching exceptions, I mentioned specific exceptions whenever possible instead of using a bare except.
    
+   
+**Design help documentation which includes a set of instructions which accurately describe how to use and install the application.**
 
+
+1.  Download the  _SalehAltamimi_T1A3.zip_  to your local computer.
+    
+2.  Unzip the downloaded SalehAltamimi_T1A3 project folder.
+    
+    -   To unzip the entire folder, right-click to select Extract All > choose a folder to unzip the folder to.
+    
+    a. Open the unzipped SalehAltamimi_T1A3 folder
+    
+    b. Open src folder
+    
+    c. Open SalehAltamimi_T1A3 folder
+    
+4.  Open your terminal application 
+        
+    -   Type in “Terminal.”
+
+        
+
+    
+    -   To open PowerShell from this menu, press Windows+X, and then click “Windows PowerShell” or “Windows PowerShell (Admin).
+        
+
+        
+5.  From the terminal command line, proceed to the SalehAltamimi_T1A3 project directory through the command below.  
+    
+    ```
+     cd <C:\Users\scarm\Desktop\saleh python\salehaltamimi_T1A3\main.py>
+    ```
    
