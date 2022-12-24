@@ -24,7 +24,7 @@ One of the features of my app is using helplines like the show using the 50/50 h
 
 **![](https://lh6.googleusercontent.com/DU1mMTTYU0jBcYAbKw8rRR0rBGLxhnWWApxvkPHBQu7GBOmYpcxm-dTUR6K2xh2gES4eCzbGy9ePvYb0Sr2vwk0MRNaIBSmVFiwdFFUdXBEj2OuiLATH4DWr5e1kQ3DDRJMG_sDmhK1N4UVplbmSTc0spdy3Ai863tNIEQOJODYDTSTNdJiXNl48jfRQWc9Z=s2048)![](https://lh6.googleusercontent.com/sGGSf8H4LYuCWQh_9dBuFF5UN6asyFUa65_6zfOSO_fP2iOhthGP7ynGCigc2w00CqmPPIcnACsOL1CvsgqKh6tWR2hY83t7UyB6v7mW4vII_47x76XK90ZK4S9yBRBDA4R8JI3iZEQyFguTH3ovJem1-x8-o1M-sHbAUOWMZkQMH7WrVJjSHyXLxHuJtWts=s2048)![](https://lh5.googleusercontent.com/Ybpn2RL-F4WezJ8EwnhsxiMNg5SVuDGRZ2CQilpN9F2IlAIDZs2dn95TqjSsuZ_9gTCYtlT4VIURwiK_CIBvDBQWiYBT7_nVRzJuoLeQM6L1PIRMuhctlP4qG7vbp_QFtyE81fPc_pPFGIv-6N-qvsipXgt9FkJZLUfvbFwqRMP-jm09zB9l6Ec8b3TmojzG=s2048)**
 
-
+   
 **Feature 2:**
 
 The second feature is submitting a question for future episodes
